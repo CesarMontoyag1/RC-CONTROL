@@ -1,6 +1,7 @@
 // CODIGO BASE ESP32
 #include "BluetoothSerial.h"
 
+//LIBRERIA BLUETOOTH
 BluetoothSerial SerialBT;
 
 // ==========================
