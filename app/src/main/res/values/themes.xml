@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.RCControl" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Colores principales -->
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryVariant">#FFFFFF</item>
+        <item name="colorOnPrimary">#000000</item>
+
+        <!-- Fondo de la app -->
+        <item name="android:windowBackground">#000000</item>
+    </style>
+
+    <!-- Estilo para los botones direccionales -->
+    <style name="ControlButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+
+        <!-- Los atributos de 'android:' SÍ mantienen su prefijo -->
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:insetLeft">0dp</item>
+        <item name="android:insetRight">0dp</item>
+        <item name="android:padding">0dp</item>
+
+        <!-- Centrado del Icono (SIN 'app:') -->
+        <item name="iconGravity">textStart</item>
+        <item name="iconPadding">0dp</item>
+        <item name="iconSize">32dp</item>
+
+        <!-- Estética B/N Minimalista (SIN 'app:') -->
+        <item name="backgroundTint">#000000</item>
+        <item name="cornerRadius">40dp</item>
+        <item name="strokeColor">#333333</item>
+        <item name="strokeWidth">1.5dp</item>
+        <item name="iconTint">#FFFFFF</item>
+        <item name="rippleColor">#33FFFFFF</item>
+    </style>
+</resources>
