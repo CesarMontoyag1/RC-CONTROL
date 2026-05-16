@@ -164,7 +164,7 @@ RC-CONTROL/
 
 ## 📄 Licencia
 
-Este proyecto está bajo la **Licencia MIT** — mira el archivo [LICENSE.md](LICENSE.md) para más detalles.  
+Este proyecto está bajo la **Licencia MIT** ver **[LICENCE.md](https://github.com/CesarMontoyag1/RC-CONTROL/blob/main/LICENCE.md)** para más detalles.  
 Siéntete libre de usarlo para fines educativos.
 
 ---
